@@ -5,4 +5,7 @@ puts("Hello"+name+"How are you?")  #this gives output as hello name and how are 
 
 puts "Enter age:"
 age=gets.chomp()
-puts("Hello"+name+". You are "+age+" old")
+puts("Hello"+name+". You are "+age+" old ")
+
+puts ("good morning everyone")
+
