@@ -10,7 +10,7 @@ puts (" -------")
 
 Str=String.new('gayathri')
 msg="Hello #{Str}! Welcome to PC"
-puts msg
+puts msg +hii
 
 s=<<~EOS
    hii
